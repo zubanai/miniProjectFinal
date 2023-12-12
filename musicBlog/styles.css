@@ -156,3 +156,21 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+@media only screen and (max-width: 770px) {
+    .back-button {
+        font-size: 20px; 
+    }
+
+    .aboutContent {
+        padding: 20px; 
+    }
+
+    .aboutPost h2 {
+        font-size: 30px; 
+    }
+
+    .aboutPost p {
+        font-size: 16px; 
+    }
+}
